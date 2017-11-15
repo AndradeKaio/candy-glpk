@@ -1,6 +1,6 @@
-earch-Engine 
+Candy-GLPK 
 
-Projeto desenvolvido para disciplina de Recuperação de Informação.
+Projeto desenvolvido para disciplina de Otimização de Sistemas
 
 ## Getting Started
 
@@ -8,12 +8,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* [Python 3](https://www.python.org/downloads/) - Python 3.6.0
-* [Urllib](https://docs.python.org/3/library/urllib.html) - The HTTP client for Python
-* [Ubuntu 16.04](http://releases.ubuntu.com/16.04/) - Ubuntu LTS
-* [Shelve](https://docs.python.org/3/library/shelve.html) - Python object persistence
-* [NLTK](http://www.nltk.org/) - Natural Language Toolkit
-* [bf4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Beautiful Soup
+* [Apache Tomcat 8](https://tomcat.apache.org/download-80.cgi) - Apache Tomcat 8.5
+* [GLPK](http://winglpk.sourceforge.net/) - GLPK For Windows
+* [Java 8](https://www.java.com/pt_BR/download/) - Java 8
+
 
 
 ## Authors
@@ -21,6 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 * **Kaio Henrique Andrade** - [Github Page](https://andradekaio.github.io)
 deandradekaio@gmail.com
 
+* **Bruno Chien **
 
 
 
