@@ -1,6 +1,6 @@
 Candy-GLPK 
 
-candyoptimization.azurewebsites.net
+* [Candy-GLPK] (candyoptimization.azurewebsites.net)
 
 Projeto desenvolvido para disciplina de Otimização de Sistemas
 
@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 * **Kaio Henrique Andrade** - [Github Page](https://andradekaio.github.io)
 deandradekaio@gmail.com
 
-* **Bruno Chien** - [Github Page]()
+* **Bruno Chien** - [Github Page](https://github.com/Shiro-Neko)
 
 
 
