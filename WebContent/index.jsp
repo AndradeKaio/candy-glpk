@@ -345,7 +345,86 @@
                         </tbody>
                       </table>
                       
-                      
+                                        <center>
+                  <div class="row">
+                        <div class="col-xs-6 col-1 form-group">
+                              <center><label>Brigadeiro</label></center>
+                        </div>
+
+                        <center>
+                              <select class="selectpicker" id="v1" name="v1">
+                                    <option>=</option>
+                                    <option>>=</option>
+                                    <option> >= </option>
+                              </select>
+                        </center>
+                        <div class="col-xs-6 col-1 form-group">
+                              <input class="form-control form-control-sm" type="text" id="v2" name="v2"/>
+                        </div>
+
+                        <div class="col-xs-6 col-1 form-group">
+                              <center><label>Quindim</label></center>
+                        </div>
+
+                        <center>
+                              <select class="selectpicker" id="v4" name="v4">
+                                    <option>=</option>
+                                    <option>>=</option>
+                                    <option> >= </option>
+                              </select>
+                        </center>
+                        <div class="col-xs-6 col-1 form-group">
+                              <input class="form-control form-control-sm" type="text" id="v5" name="v5"/>
+                        </div>
+
+
+                        <div class="col-xs-6 col-1 form-group">
+                              <center><label>Cajuzinho</label></center>
+                        </div>
+
+                        <center>
+                              <select class="selectpicker" id="v6" name="v6">
+                                    <option>=</option>
+                                    <option>>=</option>
+                                    <option> >= </option>
+                              </select>
+                        </center>
+                        <div class="col-xs-6 col-1 form-group">
+                              <input class="form-control form-control-sm" type="text" id="v7" name="v7"/>
+                        </div>
+
+                        <div class="col-xs-6 col-1 form-group">
+                              <center><label>Casadinho</label></center>
+                        </div>
+
+                        <center>
+                              <select class="selectpicker" id="v8" name="v8">
+                                    <option>=</option>
+                                    <option>>=</option>
+                                    <option> >= </option>
+                              </select>
+                        </center>
+                        <div class="col-xs-6 col-1 form-group">
+                              <input class="form-control form-control-sm" type="text" id="v9" name="v9"/>
+                        </div>
+
+                        <div class="col-xs-6 col-1 form-group">
+                              <center><label>Beijinho</label></center>
+                        </div>
+
+                        <center>
+                              <select class="selectpicker" id="v10" name="v10">
+                                    <option>=</option>
+                                    <option>>=</option>
+                                    <option> >= </option>
+                              </select>
+                        </center>
+                        <div class="col-xs-6 col-1 form-group">
+                              <input class="form-control form-control-sm" type="text" id="v11" name="v11"/>
+                        </div>
+                        
+                  </div>
+                  </center>
 	                      
 		            	<center><button type="submit" class="btn btn-primary pull-center">Resolver</button></center>
 		            	
