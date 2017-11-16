@@ -1,6 +1,6 @@
 Candy-GLPK 
 
-* [Candy-GLPK] (candyoptimization.azurewebsites.net)
+* [Candy-GLPK](candyoptimization.azurewebsites.net)
 
 Projeto desenvolvido para disciplina de Otimização de Sistemas
 
